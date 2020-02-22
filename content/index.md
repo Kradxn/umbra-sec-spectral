@@ -3,8 +3,10 @@ title: Home
 banner:
   title: Umbra - We love passwords!
   subtitle: |-
-    they are easy to use    
-    they can be secure   
+    they are easy to use
+
+    they can be secure
+
     security does not need to be complicated!
   actions:
     - label: Request demo
