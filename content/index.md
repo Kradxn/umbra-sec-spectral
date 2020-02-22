@@ -21,7 +21,7 @@ sections:
       Password Hardened Encryption
     subtitle: |-
       Security of key based cryptography with the simplicty of passwords.
-      Have a look at our scientific paper and api here!
+      Have a look at our scientific paper and API here!
     section_id: one
     background_style: style1
     feature_icons:
@@ -37,32 +37,32 @@ sections:
     component: "icons.html"
   - title: What we can offer
     subtitle: |-
-      Using our distrbuted multiparted key derivation algorithm, we can give similar security of key based encryption with just a password! Just imagine End to end Encryption without the hassel of key management! 
+      Using our distrbuted multiparted key derivation algorithm, we can give similar security of key based encryption with just a password! Just imagine end-to-end encryption without the hassle of key management! 
     section_id: two
     background_style: style3
     features:
-      - title: Bruteforce Resistant
-        text: With help of our guardian network, all passwords secured with our technology are secure from any bruteforce attacks!
+      - title: Brute-force Resistant
+        text: With help of our guardian network, all passwords protected with our technology are safe from any brute-force attacks!
         icon: fa-gavel
-      - title: Futureproof
+      - title: Future proof
         text: Through periodic PHE Key Rotation the data of your customers will stay secure indefinitely.
         icon: fa-laptop
       - title: Easy to integrate
-        text: With the help of our client SDK, it is no hassel to ingrate this encryption schema into you application.
+        text: With the help of our client SDK, it is no hassle to ingrate this encryption schema into your application.
         icon: fa-code
       - title: Data-breach resistant
-        text: Because our technology makes user data only accesable to the user while he is logged in, all data breaches of data at rest are harmless.
+        text: Our technology makes user data only accesible to the user while he is logged in. This protects data at rest from data breaches.
         icon: fa-exclamation-triangle
       - title: Scalable
-        text: Because our Guardian Network is completley serverless implemented and scales automatically, there is no bound the amount of requests you can make.
+        text: Our Guardian Network is completley serverless implemented and scales automatically. There is no limit to the amount of requests you can make.
         icon: fa-balance-scale
       - title: Zero-knowledge cryptopgraphy
-        text: We never know any information about the data, or password that is used(neither does the server operator).
+        text: We never learn any information about your data, or passwords that are used (neither does the server operator).
         icon: fa-flag-o
     type: features
     component: "features.html"
   - title: Want to know more?
-    text: Feel free to request a personal session, we are happy to help to get your passwords to a new level!
+    text: Feel free to request a personal session! We are happy to help to get your passwords to the next level!
     section_id: cta
     background_style: style4
     actions:
