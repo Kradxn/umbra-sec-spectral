@@ -67,7 +67,7 @@ sections:
     background_style: style4
     actions:
       - label: Request demo
-        url: "mailto:test@example.com?subject=Testing out mailto!"
+        url: "mailto:demo@umbra-sec.com?subject=Request a demo for me!"
         is_primary: true
         is_scrolly: false
       - label: Learn More
