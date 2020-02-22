@@ -1,6 +1,6 @@
 ---
 title: Technology
-subtitle: See how our Technology makes your life easier.
+subtitle: See how our technology makes your life easier.
 background_style: style5
 menus:
   main:
