@@ -7,7 +7,7 @@ banner:
     they can be secure  
     security does not need be complicated!
   actions:
-    - label: Request a demo
+    - label: Request demo
       url: "/demo"
       is_scrolly: false
       is_primary: true
@@ -35,25 +35,25 @@ sections:
     component: "icons.html"
   - title: What we can offer
     subtitle: |-
-      Our PHE stack has various offerings // TODO
-    section_id: three
+      Using our distrbuted multiparted key derivation algorithm, we can give similar security of key based encryption with just a password! Just imagine End to end Encryption without the hassel of key management!
+    section_id: two
     background_style: style3
     features:
       - title: Bruteforce Resistant
         text: With help of our guardian network, all passwords secured with our technology are secure from any bruteforce attacks!
-        icon: fa-paper-plane-o
+        icon: fa-gavel
       - title: Futureproof
         text: Through periodic PHE Key Rotation the data of your customers will stay secure indefinitely.
         icon: fa-laptop
       - title: Easy to integrate
-        text: With the help of our client SDK, it is no hassel to ingrated this encryption schema into you application.
+        text: With the help of our client SDK, it is no hassel to ingrate this encryption schema into you application.
         icon: fa-code
       - title: Data-breach resistant
         text: Because our technology makes user data only accesable to the user while he is logged in, all data breaches of data at rest are harmless.
-        icon: fa-headphones
+        icon: fa-exclamation-triangle
       - title: Scalable
         text: Because our Guardian Network is completley serverless implemented and scales automatically, there is no bound the amount of requests you can make.
-        icon: fa-heart-o
+        icon: fa-balance-scale
       - title: Zero-knowledge cryptopgraphy
         text: We never know any information about the data, or password that is used(neither does the server operator).
         icon: fa-flag-o
@@ -64,7 +64,7 @@ sections:
     section_id: cta
     background_style: style4
     actions:
-      - label: Request a demo
+      - label: Request demo
         url: "/demo"
         is_primary: true
         is_scrolly: false
