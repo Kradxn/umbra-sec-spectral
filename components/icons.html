@@ -8,8 +8,12 @@
         {% if include_dict.section.feature_icons %}
             <ul class="icons major">
                 {% for item in include_dict.section.feature_icons %}
-                    <li><span class="icon {{ item.icon }} major {{ item.style }}"><span class="label">{{ item.title }}</span></span></li>
-                {% endfor %}
+                <li>  
+                    {% if item.url %} <a class='' href="{{item.url}}"> {% endif %}
+                        <span class="icon {{ item.icon }} major {{ item.style }}"><span class="label">{{ item.title }}</span></span>
+                        {% if item.url %} </a> {% endif %}
+                    {% endfor %}
+                </li>
             </ul>
         {% endif %}
     </div>
