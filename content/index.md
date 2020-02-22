@@ -39,7 +39,7 @@ sections:
     component: "icons.html"
   - title: What we can offer
     subtitle: |-
-      Using our distrbuted multiparted key derivation algorithm, we can give similar security of key based encryption with just a password! Just imagine end-to-end encryption without the hassle of key management! 
+      Using our distributed multiparted key derivation algorithm, we can give similar security of key based encryption with just a password! Just imagine end-to-end encryption without the hassle of key management! 
     section_id: two
     background_style: style3
     features:
