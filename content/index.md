@@ -28,9 +28,11 @@ sections:
       - title: Paper
         icon: fa-file
         style: style1
-      - title: Dolor
+        url: 'https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lai.pdf'
+      - title: API
         icon: fa-code
         style: style3
+        url: "https://app.swaggerhub.com/apis-docs/schmid.ai/phe-webclient/1.0.0#/"
     type: icons
     component: "icons.html"
   - title: What we can offer
