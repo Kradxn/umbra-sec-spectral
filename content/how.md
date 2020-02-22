@@ -1,10 +1,10 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Technology
+subtitle: See how our Technology makes your life easier.
 background_style: style5
 menus:
   main:
-    title: Generic
+    title: Learn More
     weight: 2
 template: page
 ---

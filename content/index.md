@@ -3,12 +3,12 @@ title: Home
 banner:
   title: Umbra - We love passwords!
   subtitle: |-
-    they are easy to use  
-    they can be secure  
-    security does not need be complicated!
+    they are easy to use    
+    they can be secure   
+    security does not need to be complicated!
   actions:
     - label: Request demo
-      url: "/demo"
+      url: "mailto:demo@umbra-sec.com?subject=Request a demo for me!"
       is_scrolly: false
       is_primary: true
   bottom_link:
@@ -65,7 +65,7 @@ sections:
     background_style: style4
     actions:
       - label: Request demo
-        url: "/demo"
+        url: "mailto:test@example.com?subject=Testing out mailto!"
         is_primary: true
         is_scrolly: false
       - label: Learn More

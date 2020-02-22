@@ -7,5 +7,5 @@ social_icons:
     url: "#"
   - title: Email
     icon: fa-envelope-o
-    url: "#"
+    url: "mailto:contact@umbra-sec.com"
 copyright: "&copy; UmbraSec"
