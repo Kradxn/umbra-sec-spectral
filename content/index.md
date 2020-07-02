@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: Umbra - We love passwords!
+  title: Umbra - Your privacy is on us!
   subtitle: |-
     they are easy to use
 
